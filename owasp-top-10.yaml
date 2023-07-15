@@ -1,7 +1,7 @@
 id: owasp-top10
 info:
   name: OWASP Top 10
-  author: YourName
+  author: z0ds3c
   severity: critical
   description: |
     Nuclei template for scanning OWASP Top 10 vulnerabilities.
